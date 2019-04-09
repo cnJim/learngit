@@ -1,4 +1,2 @@
-啊啦啦啦啦啦啦啦啦啦啦啦啦啦啦
-djsndjsndsjn
-看看没看你查看内存
-上看到你说可能的
+Git is a distributed version control system.
+Git is free software.
